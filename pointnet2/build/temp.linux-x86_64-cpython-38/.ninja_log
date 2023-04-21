@@ -1,0 +1,7 @@
+# ninja log v5
+1	32348	0	/home/dev/lzj/votenet/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/bindings.o	853b7e17203bbbc0
+3	16776	0	/home/dev/lzj/votenet/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/interpolate.o	9cd1b1983d2355b5
+3	16911	0	/home/dev/lzj/votenet/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/group_points.o	4ede05937db3cf2a
+3	17088	0	/home/dev/lzj/votenet/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/sampling.o	46ae6712047f7f6
+2	17130	0	/home/dev/lzj/votenet/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/ball_query.o	fe392b95b939cf01
+3	18543	0	/home/dev/lzj/votenet/pointnet2/build/temp.linux-x86_64-cpython-38/_ext_src/src/bindings.o	e41e16e6e2ddb10e

@@ -1,0 +1,10 @@
+# ninja log v5
+2	17862	0	/home/dev/lzj/votenet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/interpolate_gpu.o	5644df39592586a1
+0	17867	0	/home/dev/lzj/votenet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/group_points_gpu.o	f36356f73156c799
+1	17985	0	/home/dev/lzj/votenet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/ball_query_gpu.o	16017735d8e6750b
+2	18096	0	/home/dev/lzj/votenet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/sampling_gpu.o	bc60b3c9946a48f8
+2	33718	0	/home/dev/lzj/votenet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/sampling.o	aa65d915bc0305f4
+2	33724	0	/home/dev/lzj/votenet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/interpolate.o	53f69ab2b10000ef
+0	33819	0	/home/dev/lzj/votenet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/ball_query.o	951d4fba078a0a63
+1	33890	0	/home/dev/lzj/votenet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/group_points.o	238b2a6a9069731c
+1	35635	0	/home/dev/lzj/votenet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/bindings.o	3486e15393512845
